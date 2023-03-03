@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NikhilPrashant
-- 👀 I’m interested in Flutter Development
-- 🌱 I’m currently learning Advanced Flutter
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 👀 I’m interested in Spring Boot & Flutter Development
+- 🌱 I’m currently learning UI integration in multiple languages
+- 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me - nikhilprashant1998@gmail.com
 
 <!---
